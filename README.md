@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ayumi-495
-- 👀 I’m interested in the evolutionary history of bird behaviours and morphologies
-- 🌱 I’m currently learning meta-analysis and phylogenetic comparative methods
-- 💞️ I’m looking to collaborate on the interaction of visual mechanisms between birds and insects
+- 👀 I’m interested in the evolutionary history of animal behaviours and morphologies (mainly birds! 🦜)
+- 🌱 I’m currently learning phylogenetic comparative methods and meta-analysis
 - 📫 How to reach me: a.mizuno_at_unsw.edu.au or ayumi.mizuno5_at_gmail.com
