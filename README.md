@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ayumi-495
-- 👀 I’m interested in the evolutionary history of animal behaviours and morphologies (mainly birds! 🦜)
+- 👀 I’m interested in the evolutionary history of animal behaviours and morphology (mainly birds! 🦜)
 - 🌱 I’m currently learning phylogenetic comparative methods, meta-analysis, and stats 📈
 - 📫 How to reach me: please send an email to ayumi.mizuno5_at_gmail.com
